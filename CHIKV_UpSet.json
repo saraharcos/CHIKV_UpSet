@@ -1,5 +1,5 @@
 {
-	"file": "data/movies/movies.csv",
+	"file": "https://raw.githubusercontent.com/saraharcos/CHIKV_UpSet/master/CHIKV_UpSet.csv",
 	"name": “CHIKV High Confidence VIR-CLASP Hits“,
 	"header": 0,
 	"separator": ";",
