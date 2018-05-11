@@ -13,5 +13,5 @@
 		{ "format": "binary", "start": 3, "end": 8 }
 	],
     "author": "saraharcos",
-    "description": "CHIKV VIR-CLASP High Confidence Dataset, published by Ascano Lab",
+    "description": "CHIKV VIR-CLASP High Confidence Dataset, published by Ascano Lab"
 }
