@@ -1,0 +1,17 @@
+{
+	"file": "data/movies/movies.csv",
+	"name": “CHIKV High Confidence VIR-CLASP Hits“,
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 1, "name": "Name" },
+		{ "type": “string”, "index": 0, "name": “Accession” },
+		{ "type": “string”, "index": 2, "name": “Description” }
+	],
+	"sets": [
+		{ "format": "binary", "start": 3, "end": 8 }
+	],
+    "author": “saraharcos”,
+    "description": “CHIKV VIR-CLASP High Confidence Dataset, published by Ascano Lab”,
+}
